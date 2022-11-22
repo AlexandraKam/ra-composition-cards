@@ -1,0 +1,6 @@
+/node_modules/.bin
+/node_modules/@babel
+/node_modules/@popperjs
+/node_modules/@react-aria
+/node_modules/@restart
+/node_modules
